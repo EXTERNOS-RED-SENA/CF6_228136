@@ -80,7 +80,7 @@
             td 2-3 páginas
           tr.bg-white
             td Anexos técnicos
-            td Código, logs y documentación adicional
+            td Código, #[em logs] y documentación adicional
             td Equipo técnico
             td Muy alto - detalles completos
             td Sin límite
@@ -109,7 +109,7 @@
           p.mb-0 #[b Figura 1.] Ciclo de vida del informe técnico
         
         figure.mb-2
-          img.mx-auto(src="@/assets/curso/tema2/4.svg",style="max-width: 505px;")
+          img.mx-auto(src="@/assets/curso/tema2/4.svg",style="max-width: 505px;" alt='La Figura 1 se denomina «Ciclo de vida del informe técnico» y presenta los diferentes momentos asociados a este proceso continuo, desde la planificación inicial y la recopilación de datos, hasta la publicación final y el control de versiones.')
         figcaption.fw-normal #[em #[b Fuente]: OIT, 2024.]
     
     .row.justify-content-center.mb-3(data-aos="flip-up")

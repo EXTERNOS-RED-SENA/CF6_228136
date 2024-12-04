@@ -308,7 +308,7 @@ export default {
         'Técnicas sofisticadas para representar datos complejos de manera visual, incluyendo gráficos interactivos y multidimensionales.',
     },
     {
-      termino: '<em>Workflow ETL</em>',
+      termino: '<em>Workflow</em> ETL',
       significado:
         'Flujo de trabajo que define la secuencia y dependencias de los procesos de extracción, transformación y carga de datos.',
     },
